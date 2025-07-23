@@ -573,3 +573,8 @@
 .copyright a:hover {
     color: var(--bs-primary);
 }
+
+.header-sub-text {
+  font-size: 0.7rem;
+  color: var(--bs-secondary);
+}
